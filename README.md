@@ -27,3 +27,4 @@ See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 # latihan1-sitirahmadhona-18425004
 # latihan1-sitirahmadhona-18425004
 # latihan1-sitirahmadhona-18425004
+# latihan1-sitirahmadhona-18425004
